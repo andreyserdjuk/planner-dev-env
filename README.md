@@ -1,5 +1,7 @@
 ### Dev env for planner application:
-It's client-server application contains from two independent parts.
+It's client-server application contains from two independent parts:
+* [Client (currently simple task list as example)](https://github.com/andreyserdjuk/simple-planner-client)
+* [Planner GraphQL API](https://github.com/andreyserdjuk/planner-gql-api)
 
 #### Setup:
 Add hosts:  
